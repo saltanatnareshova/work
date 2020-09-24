@@ -1,0 +1,40 @@
+header{
+    background-color: white;
+    position: absolute;
+width: 1440px;
+height: 106px;
+left: 0px;
+top: 0px;
+}
+img{
+    position: absolute;
+width: 178px;
+height: 72px;
+left: 25px;
+top: 17px;
+}
+ul{
+    list-style-type: none;
+    margin-left: 35%;
+  padding-left: 100px;
+  margin-top: 4%;
+  overflow: hidden;
+}
+li {
+    float: left;
+}
+a{
+    text-align: center;
+  padding: 16px;
+    color: rgba(44, 167, 219, 1);
+    line-height: 28.13px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    
+}

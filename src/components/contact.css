@@ -1,0 +1,165 @@
+.container{
+    background-image: url(./photo/Vessel2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 735px;
+    max-width: 100%;
+  }
+  h2{
+    position: absolute;
+width: 541px;
+height: 58px;
+left: 478px;
+top: 170px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FEFEFE;
+  }
+  #inj{
+    position: absolute;
+width: 717px;
+height: 113px;
+left: 47px;
+top: 281px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+text-transform: uppercase;
+
+color: #2CA7DB;
+  }
+  #text{
+    position: absolute;
+width: 717px;
+height: 113px;
+left: 47px;
+top: 330px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FEF9F9;
+  }
+  #text2{
+  position: absolute;
+width: 506px;
+height: 293px;
+left: 880px;
+top: 281px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+text-transform: uppercase;
+
+color: #2CA7DB;
+  }
+#text3{
+  position: absolute;
+width: 506px;
+height: 293px;
+left: 880px;
+top: 330px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FEF9F9;
+
+}
+#text4{
+  position: absolute;
+  width: 506px;
+  height: 293px;
+  left: 880px;
+  top: 580px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 42px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FEF9F9;
+}
+.form{
+  position: absolute;
+width: 585px;
+height: 400px;
+left: 112px;
+top: 420px;
+
+background: rgba(229, 229, 229, 0.5);
+}
+#name{
+  position: absolute;
+width: 510px;
+height: 39px;
+left: 30px;
+top: 20px;
+
+background: #FEFEFE;
+}
+#email{
+  position: absolute;
+width: 510px;
+height: 39px;
+left: 30px;
+top: 70px;
+
+background: #FEFEFE;
+}
+#subject{
+  position: absolute;
+width: 510px;
+height: 39px;
+left: 30px;
+top: 120px;
+
+background: #FEFEFE;
+}
+#area{
+  position: absolute;
+width: 510px;
+height: 159px;
+left: 30px;
+top: 170px;
+
+background: #FEFEFE;
+}
+#submit{
+  position: absolute;
+width: 100px;
+height: 30px;
+left: 240px;
+top: 350px;
+
+background: #FEFEFE;
+}

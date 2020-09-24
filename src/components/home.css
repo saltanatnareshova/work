@@ -1,0 +1,41 @@
+.container{
+    background-image: url(./photo/Vessel2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 735px;
+    max-width: 100%;
+  }
+h1{
+    position: absolute;
+width: 709px;
+height: 83px;
+left: 377px;
+top: 130px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+text-align: center;
+text-transform: uppercase;
+
+color: #2CA7DB;
+
+  }
+#h2{
+    position: absolute;
+width: 471px;
+height: 67px;
+left: 496px;
+top: 200px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+text-transform: uppercase;
+  }
