@@ -1,0 +1,26 @@
+.footer{
+    background-color: white;
+    position: absolute;
+width: 1440px;
+height: 40px;
+left: 0px;
+bottom: 0px;
+}
+.footertext{
+    position: absolute;
+    width: 242px;
+    height: 37px;
+    left: 135px;
+    top: 10px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+}
